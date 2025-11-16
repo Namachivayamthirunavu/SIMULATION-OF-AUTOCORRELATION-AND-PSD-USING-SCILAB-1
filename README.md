@@ -1,4 +1,7 @@
 ## SIMULATION-OF-AUTOCORRELATION-AND-PSD-USING-SCILAB-1
+Name: Namachivayam T
+
+Reg No: 212223060179
 
 ### AIM:
 Write a program for Autocorrelation and PSD of signals in SCILAB and verify Wiener-Khinchin relation. 
